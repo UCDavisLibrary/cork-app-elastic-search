@@ -1,0 +1,14 @@
+{
+  "name": "@ucd-lib/cork-app-elastic-search",
+  "version": "0.0.1",
+  "description": "Base elastic search model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ucd-lib/cork-app-utils": "^2.0.0"
+  }
+}
