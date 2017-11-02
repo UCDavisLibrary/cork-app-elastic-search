@@ -1,6 +1,6 @@
 {
   "name": "@ucd-lib/cork-app-elastic-search",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Base elastic search model",
   "main": "index.js",
   "scripts": {
