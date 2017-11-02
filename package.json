@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ucd-lib/cork-app-utils": "^2.0.1"
+    "@ucd-lib/cork-app-utils": "^2.0.2"
   }
 }
